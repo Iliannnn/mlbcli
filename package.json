@@ -1,0 +1,26 @@
+{
+  "name": "mlbcli",
+  "version": "1.0.0",
+  "description": "A cli tool to view MLB player, team, game and report stats.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iliannnn/mlbcli.git"
+  },
+  "author": "Iliannnn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iliannnn/mlbcli/issues"
+  },
+  "homepage": "https://github.com/Iliannnn/mlbcli#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "code": "^5.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
